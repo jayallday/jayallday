@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jayallday
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning csharp in unity
+- 😄 Pronouns: i dont care
+- ⚡ Fun fact: no fun here
